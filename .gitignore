@@ -1,0 +1,5 @@
+.pypirc
+.mypy_cache
+.vscode
+dist/*
+*.pyc
