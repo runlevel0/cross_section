@@ -11,6 +11,7 @@ Welcome to cross_section's documentation!
    :caption: Contents:
    
    readme
+   examples/basic_usage
    api
 
 
