@@ -38,7 +38,9 @@ Contribute
 
 Inspiration
 -----------
-https://sectionproperties.readthedocs.io/en/latest/
+
+- [sectionproperties] (https://github.com/robbievanleeuwen/section-properties)
+- [xsect] (https://github.com/mpewsey/xsect)
 
 Support
 -------
